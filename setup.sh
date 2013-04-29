@@ -13,6 +13,9 @@ ln $DOTDIR/vimrc $TARGET/.vimrc
 [ -d $TARGET/.vim/colors ] || mkdir $TARGET/.vim/colors
 ln $DOTDIR/vim/colors/BusyBee.vim $TARGET/.vim/colors/BusyBee.vim
 
+# git setup
+ln $DOTDIR/gitconfig $TARGET/.gitconfig
+
 # ls colors
 ln $DOTDIR/dir_colors $TARGET/.dir_colors
 
