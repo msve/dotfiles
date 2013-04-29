@@ -1,13 +1,13 @@
 [user]
-	name = Martin Svehla
-	email = mar.svehla@gmail.com
+    name = Martin Svehla
+    email = mar.svehla@gmail.com
 [credential]
-	helper = cache
+    helper = cache
 [core]
-	editor = vim
+    editor = vim
 [push]
-	default = simple
+    default = simple
 [color]
-	ui = true
+    ui = true
 [alias]
     st = status
